@@ -1,0 +1,8 @@
+{
+
+    "model_name" : "efficientnet_lite0",
+    "num_classes" : 3,
+    "model_arch": "~/core-ml/dl_filter/eva/gen_effnet_pt",
+    "labels" : ["background","person","vehicle"]
+}
+
